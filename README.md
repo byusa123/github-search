@@ -12,7 +12,7 @@ BOOTSTRAP
 
 Angular js
 
-
+TYPESCRIPT
 ## Known Bugs
 
 No known bugs so far
