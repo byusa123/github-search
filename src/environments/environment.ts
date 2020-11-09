@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-    myApi: '1d7506b16721fcd53d4d849c1cea1532047a8047'
-
+    myApi: '1d7506b16721fcd53d4d849c1cea1532047a8047',
+    apiUrl:   'http://example.com/api'   
 };
 
 /*

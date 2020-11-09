@@ -30,6 +30,7 @@ export class SearchRequestService {
             followers: number;
             following: number;
             avatar_url: string;
+            production:boolean;
         }
 
         const promise = new Promise((resolve) => {
