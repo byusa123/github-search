@@ -4,7 +4,7 @@ BYUSA GISELLE
 https://github.com/byusa123/github-search.git
 
 ## Description
-it is  a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories
+it is  a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories easly
 
 
 ## Technologies Used
